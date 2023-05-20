@@ -1,3 +1,1 @@
-![](https://raw.githubusercontent.com/CYCLOP5/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CYCLOP5/stats/master/generated/languages.svg#gh-dark-mode-only)
-
+![Cyclops's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYCLOP5&count_private=true&show_icons=true&theme=dark)
