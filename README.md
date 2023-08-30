@@ -1,4 +1,4 @@
-![Cyclops's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYCLOP5&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&showprivate=true)
+![Cyclops's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYCLOP5&show_icons=true&theme=transparent&hide_rank=true)
 
 
 
