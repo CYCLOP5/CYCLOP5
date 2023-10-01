@@ -26,3 +26,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&cover_image=true&theme=novatorem&show_offline=true&background_color=4c3d3d&interchange=false&bar_color=044cb0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&redirect=true)
 
 
+[![An image of @cyclop5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyclop5)](https://holopin.io/@cyclop5)
