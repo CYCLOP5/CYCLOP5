@@ -15,8 +15,14 @@
 ---------------
 
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYCLOP5&theme=transparent"/>
 
+---------------
 
+  <img align='center' src='https://streak-stats.demolab.com?user=CYCLOP5&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500' height='200'>
+  
+
+---------------
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYCLOP5&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
