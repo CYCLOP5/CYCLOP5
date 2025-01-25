@@ -48,9 +48,8 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYCLOP5&theme=transparent"/>
 
----------------
 
-  <img align='center' src='https://streak-stats.demolab.com?user=CYCLOP5&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500' height='200'>
+
   
 
 ---------------
@@ -60,4 +59,4 @@
 
 ---------------
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&redirect=true)
