@@ -55,7 +55,7 @@
 ---------------
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYCLOP5&layout=donut&theme=transparent&hide=jupyter%20notebook,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYCLOP5&layout=donut&theme=transparent&hide=jupyter%20notebook,scss,html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------
 
