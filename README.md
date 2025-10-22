@@ -1,7 +1,15 @@
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnjhaveri/) 
 
-# 💻 Tech Stack:
+
+<video src="https://github.com/user-attachments/assets/d543e90b-e80d-41f7-aa7d-b3292b622477" controls width="600"></video>
+
+
+
+
+
+
+#  Tech Stack:
 <div align="center">
 	<table>
 		<tr>
@@ -35,7 +43,7 @@
 	</table>
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![Cyclops's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYCLOP5&show_icons=true&theme=transparent&hide_rank=true)
 
 
