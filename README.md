@@ -22,11 +22,11 @@
 <table>
 <tr>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyclop5&theme=github_dark&exclude=JavaScript,Jupyter%20Notebook" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyclop5&theme=github_dark&exclude=JavaScript,Jupyter%20Notebook,HTML,TypeScript,CSS" />
 </td>
 
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyclop5&theme=github_dark&exclude=JavaScript,Jupyter%20Notebook" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyclop5&theme=github_dark&exclude=JavaScript,Jupyter%20Notebook,HTML,TypeScript,CSS" />
 </td>
 </tr>
 
@@ -42,6 +42,7 @@
 </table>
 
 </div>
+
 
 ---------------
 
