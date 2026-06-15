@@ -48,6 +48,6 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=r0w0vs1hlbutvp3qwaoo7pey8&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" />
   </a>
 </div>
